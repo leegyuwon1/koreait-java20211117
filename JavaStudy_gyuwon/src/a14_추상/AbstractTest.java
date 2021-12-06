@@ -25,7 +25,7 @@ class Tiger extends Animal{
 public class AbstractTest {
 		
 	public static void main(String[] args) {
-		Animal[a]=new Animal();
+		//Animal a = new Animal();
 		
 		Animal[] animals=new Animal[2];
 		animals[0]=new Human();
