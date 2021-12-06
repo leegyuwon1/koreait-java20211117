@@ -14,7 +14,7 @@ public class IfPractice {
 			else {
 				System.out.println("그냥 학원으로 갑니다.");
 			}
-			System.out.println("어쨋든 학원갑니다.");
+			System.out.println("끝");
 	}
 
 }
